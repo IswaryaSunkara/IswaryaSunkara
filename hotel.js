@@ -18,9 +18,9 @@ function save() {
         const TAC = AR * i1;
         const TC = TRC + TAC;
         if (i2 > 2) {
-            balance = (TC - a1) + ((i2 - 2) * 1000);
+           balance = (TC - a1) + ((i2 - 2) * 1000);
         } else {
-            const balance = TC - a1;
+            balance = TC - a1;
         }
 
         document.getElementById('TRC').value = TRC;
