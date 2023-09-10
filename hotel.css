@@ -5,30 +5,30 @@
     background-attachment: fixed;
     padding: 1%;
     width: 100%;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .h1 {
-    font-size: 100vh;
+    font-size: 100px;
     color: black;
     margin-top: 6%;
 }
 
 .h2 {
     margin-top: 4%;
-    font-size: 60px;
+    font-size: 100px;
     color: rgb(108, 5, 5);
 }
 
 .h3 {
     margin-top: 8%;
-    font-size: 15px;
+    font-size: 100px;
     color: rgb(36, 4, 104);
 }
 
 label {
     color: rgb(0, 0, 0);
-    font-size: 25px;
+    font-size: 35px;
     font-weight: 800;
     display: inline;
 }
@@ -36,7 +36,7 @@ label {
 .i1 {
     height: 35px;
     width: 26%;
-    font-size: 90%;
+    font-size: 30px;
     margin-left: 1%;
 }
 
@@ -51,12 +51,12 @@ label {
 .p1 {
     height: fit-content;
     color: rgb(16, 16, 16);
-    font-size: 40px;
+    font-size: 80px;
     font-weight: 900;
 }
 
 #rh1 {
-    font-size: 25px;
+    font-size: 40px;
     margin-left: 8%;
     color: rgb(11, 4, 97);
 }
